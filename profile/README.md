@@ -8,7 +8,7 @@
 
 </div>
 
-Hey, I'm **Kartonek** 👋 I make small Minecraft mods, mostly things I wished existed while playing. They all run only on your side, so you can use them on any server without asking the admin to install anything.
+Hi, I'm Kartonek. I make small Minecraft mods. They're all client-side, so they work on any server.
 
 ## Mods
 
