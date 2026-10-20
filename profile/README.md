@@ -8,7 +8,7 @@
 
 </div>
 
-Hi, I'm Kartonek. I make small Minecraft mods. They're all client-side, so they work on any server.
+Hi, I'm Kartonek. I make small Minecraft mods.
 
 ## Mods
 
