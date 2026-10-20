@@ -8,7 +8,7 @@
 
 </div>
 
-Kart Modding is where **Kartonek**'s Minecraft mods live. Everything here is **client-side**: install it, join any server, vanilla or modded, and nothing on the server has to change.
+Hey, I'm **Kartonek** 👋 I make small Minecraft mods, mostly things I wished existed while playing. They all run only on your side, so you can use them on any server without asking the admin to install anything.
 
 ## Mods
 
