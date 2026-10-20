@@ -35,12 +35,6 @@ Kart Modding is where **Kartonek**'s Minecraft mods live. Everything here is **c
 [![Stars](https://img.shields.io/github/stars/Kart-Modding/Tiny?style=flat-square&color=3a3a44)](https://github.com/Kart-Modding/Tiny/stargazers)
 [![License](https://img.shields.io/github/license/Kart-Modding/Tiny?style=flat-square&color=3a3a44)](https://github.com/Kart-Modding/Tiny/blob/HEAD/LICENSE)
 
-## Getting a mod
-
-1. Pick the jar for your loader and Minecraft version on [Modrinth](https://modrinth.com/user/Kartonek).
-2. Drop it in your `mods/` folder. Fabric mods also need [Fabric API](https://modrinth.com/mod/fabric-api).
-3. Optional: install [Mod Menu](https://modrinth.com/mod/modmenu) to change settings in game.
-
 ## Contributing
 
 Bug reports and pull requests are welcome. Open an issue on the mod's repository and include your Minecraft version, loader and mod version. All mods are under the MIT License.
